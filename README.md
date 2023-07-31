@@ -5,7 +5,7 @@ The project aimed to  automate and streamline the process of reserving train tic
 
 ## Deployment
 
-To run the project use a standard C compiler such a GNU/GNU   
+To run the project use a standard C compiler such a GCC/GNU   
 Use a Text Editor Such as Dev C++/Visual Studio Code
 
 
